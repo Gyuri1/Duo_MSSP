@@ -7,9 +7,9 @@ https://duo.com/docs/accountsapi
 
 Example output:
 
-[{'account_id': 'DAXXX',
-  'api_hostname': 'api-demoxxx.duosecurity.com',
-  'name': 'Company A'},
-{'account_id': 'DAXXX',
-  'api_hostname': 'api-demoxxx.duosecurity.com',
-  'name': 'Company B'}]
+[{'account_id': 'DAXXX',  
+  'api_hostname': 'api-demoxxx.duosecurity.com',  
+  'name': 'Company A'},  
+{'account_id': 'DAXXX',  
+  'api_hostname': 'api-demoxxx.duosecurity.com',  
+  'name': 'Company B'}]  
