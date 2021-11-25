@@ -5,6 +5,8 @@ This script lists the Duo MSSP tenants.
 
 More info:
 https://duo.com/docs/accountsapi
+Please create the Accounts API credentials as a 1st step.
+
 
 Example output:
 
@@ -21,3 +23,6 @@ This script creates a tenant in Duo MSSP environment.
 1st argument is the name of the tenant, like:
 
 python duo_mssp_create.py New_Tenant
+
+
+
